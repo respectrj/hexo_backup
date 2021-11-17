@@ -16,13 +16,12 @@ $ hexo new "My New Post"
 
 More info: [Writing](https://hexo.io/docs/writing.html)
 
-### Run server
+### Clean
 
 ``` bash
-$ hexo server
+$ hexo clean
 ```
 
-More info: [Server](https://hexo.io/docs/server.html)
 
 ### Generate static files
 
@@ -31,6 +30,16 @@ $ hexo generate
 ```
 
 More info: [Generating](https://hexo.io/docs/generating.html)
+
+### Run server, view result locally, running at http://localhost:4000
+
+``` bash
+$ hexo server
+```
+
+More info: [Server](https://hexo.io/docs/server.html)
+
+
 
 ### Deploy to remote sites
 
